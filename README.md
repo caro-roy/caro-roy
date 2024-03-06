@@ -21,7 +21,8 @@ A few months later, I signed a pact with the devil and started learning React th
 - Next.js (I'm currently working on projects to apply all my new knowledge regarding rendering strategies, performances and animations)
 - Node.js / Express
 - Leetcode - DataStructure & Algo 
-- Python for data to step a foot into data analysis, dataviz that spark joy to me
+- Python to step a foot into data analysis, dataviz that spark joy to me
+  
 ... and serendipity while navigating through random tech posts or videos
 
 
