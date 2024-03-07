@@ -23,6 +23,7 @@ A few months later, I signed a pact with the devil and started learning React th
 - Node.js / Express
 - Leetcode - DataStructure & Algo 
 - Python to step a foot into data analysis, dataviz that spark joy to me
+- FP (with Scala or Haskell probably)
   
 ... and serendipity while navigating through random tech posts or videos
 
