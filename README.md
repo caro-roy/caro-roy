@@ -1,13 +1,17 @@
-# Hello, I'm Caroline
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=3000&pause=60000&color=C262E9&repeat=false&random=false&width=600&height=80&lines=Hello%2C+I'm+Caroline)](https://git.io/typing-svg)
 
 As astonishing as it can be on github, I'm a software engineer ! 😱
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=caro-roy&theme=modern-lilac2&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=00000000)](https://git.io/streak-stats)
+
+
 ## Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
 
 ## Where I come from
 
