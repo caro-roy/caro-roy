@@ -1,23 +1,25 @@
-Hello, I'm Caroline
+# Hello, I'm Caroline
 
 As astonishing as it can be on github, I'm a software engineer ! 😱
 
-# Where I come from
+## Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+## Where I come from
 
 I started development during my physics/robotics studies, with Python, C(++/#) (heck even Matlab and LabView) and I've grown a deep love for it ever since.  
  
 4 years ago, I shifted into web dev to get more in touch with more glam ✨ user facing solutions. 
-This journey started integrating showcase and ecommerce websites ((HTML, (S)CSS and smarty)) for small and medium businesses. I also worked on analytics implementations using GTM to track customers and visitors performances and enjoyed it so much (I have a weird kink for metrics and charts). I didn't know it at the time when trying to figure out what the heck I was writing but this is how I met, not your mother but, JS.
+This journey started integrating showcase and ecommerce websites ((HTML, (S)CSS and smarty)) for SMEs. I also worked on analytics implementations using GTM to track customers and visitors performances and enjoyed it so much (I have a weird kink for metrics and charts). I didn't know it at the time when trying to figure out what the heck I was writing but this is how I met, not your mother but, JS.
 
 A few months later, I signed a pact with the devil and started learning React that became my tool of choice to deliver interactive and user centric interfaces for applications.
 
-# What's next ?
+## What's next ?
 
-## In general
-- Unravel frontend concepts in depth (performances, accessibility etc) to truly master it someday
-- Start growing outside the frontend bubble: open my backend chakras, have a better vision upon UI and UX, teamwork organisation / methods
-
-## Techwise
 
 - Next.js (I'm currently working on projects to apply all my new knowledge regarding rendering strategies, performances and animations)
 - Node.js / Express
