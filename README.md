@@ -11,7 +11,7 @@ As astonishing as it can be on github, I'm a software engineer ! 😱
 
 ## Where I come from
 
-I started development during my physics/robotics studies, with Python, C(++/#) (heck even Matlab and LabView) and I've grown a deep love for it ever since.  
+I started development during my physics/robotics studies, with Python, C(++/#), (heck even Matlab, LabView, ROS and LaTeX) and I've grown a deep love for it ever since.  
  
 4 years ago, I shifted into web dev to get more in touch with more glam ✨ user facing solutions. 
 This journey started integrating showcase and ecommerce websites ((HTML, (S)CSS and smarty)) for SMEs. I also worked on analytics implementations using GTM to track customers and visitors performances and enjoyed it so much (I have a weird kink for metrics and charts). I didn't know it at the time when trying to figure out what the heck I was writing but this is how I met, not your mother but, JS.
