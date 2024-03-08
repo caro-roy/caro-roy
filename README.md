@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=3000&pause=60000&color=C262E9&repeat=false&random=false&width=600&height=80&lines=Hello%2C+I'm+Caroline)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=3000&pause=60000&color=C262E9&repeat=false&random=false&width=600&height=80&lines=Hello%2C+I'm+Caroline)
 
 As astonishing as it can be on github, I'm a software engineer ! 😱
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=caro-roy&theme=modern-lilac2&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=00000000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=caro-roy&theme=modern-lilac2&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=00000000)
 
 
 ## Tech Stack
