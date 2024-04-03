@@ -2,8 +2,6 @@
 
 As astonishing as it can be on github, I'm a software engineer ! 😱
 
-![GitHub Streak](https://streak-stats.demolab.com?user=caro-roy&theme=modern-lilac2&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=00000000)
-
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
