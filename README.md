@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=3000&pause=60000&color=C262E9&repeat=false&random=false&width=600&height=80&lines=Hello%2C+I'm+Caroline)
 
-As astonishing as it can be on github, I'm a software engineer ! 😱
+As astonishing as it can be on github, I'm a software dev ! 😱
 
 
 ## Tech Stack
